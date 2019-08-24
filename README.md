@@ -2,12 +2,11 @@
 Semi-HIC: A novel semi-supervised deep learning framework for histopathological image classification: Lei Su from Health Informatics Lab, School of Information Science and Technology, University of Science and Technology of China
 
 # Requirement
-tenserflow == 
-numpy >= 
+    tenserflow == 
+    numpy >= 
 
 # Related data information need to first load
-
-# Predict for your test data
+The dataset of 
 
 # Train with your own data
 
